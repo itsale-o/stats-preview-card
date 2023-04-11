@@ -37,8 +37,9 @@ These are two screenshots of what my solutions look like on desktop and mobile s
 
 ### Links
 
-- Solution URL: [My solution on Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [My live solution](https://your-live-site-url.com)
+- Solution URL: [My solution on Frontend Mentor](https://www.frontendmentor.io/solutions/stats-preview-card-component-solution-K5_Bw00ZK8
+)
+- Live Site URL: [My live solution](https://itsale-o.github.io/stats-preview-card/)
 
 ## My process
 
